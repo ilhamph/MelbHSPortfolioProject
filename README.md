@@ -1,5 +1,5 @@
 # MelbHSPortfolioProject
-This is my first data analyst portfolio project
+This is my first data analyst portfolio project.
 The dataset was taken from kaggle. see the folloing link: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
 I'm using Microsoft SQL Server as DBMS.
 
